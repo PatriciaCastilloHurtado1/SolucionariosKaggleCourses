@@ -1,4 +1,4 @@
-# Solucionarios Kaggle Courses
+# Solucionarios de cursos Kaggle
 Cursos de Kaggle
 1) Intro to SQL
 2) Intro to Game AI and Reinforcement Learning
